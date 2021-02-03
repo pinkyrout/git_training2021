@@ -36,3 +36,12 @@ Hobbies:
 1. Listening music
 2. Dancing
 3. Playing cricket
+
+
+Name:Mohit Dehuliya
+College:IET DAVV
+hobbies:
+1. technical anyalsis of Finacial Market
+2. Sketch 
+3. High Graphic Gaming 
+
