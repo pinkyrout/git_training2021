@@ -4,6 +4,7 @@ Hobbies:
 1. Playing Volleyball
 2. Cooking, Gardening
 
+
 Name: Varun Gadde
 College: Pimpri Chinchwad College of Engineering
 Hobbies:
@@ -38,18 +39,24 @@ Hobbies:
 1. Playing Cricket
 2. Watching Movies
 
-Name: Gourav Jondhale
-College: Walchand College of Engoneering Sangli
-Hobbies:
-1. Listening music
-2. Dancing
-3. Playing cricket
-
 
 Name:Mohit Dehuliya
 College:IET DAVV
 hobbies:
 1. technical anyalsis of Finacial Market
-2. Sketch 
-3. High Graphic Gaming 
+2. Sketch
+3. High Graphic Gaming
 
+
+Name: Fatema Moaiyadi
+College: IIPS, DAVV
+Hobbies:
+1. Cooking
+2. Listening to music
+
+Name: Gourav Jondhale
+College: Walchand College of Engoneering Sangli
+Hobbies:
+1. Listening music
+2. Dancing
+3. Playing crickek
