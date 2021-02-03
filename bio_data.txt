@@ -9,3 +9,11 @@ College: Walchand College of Engineering, Sangli
 Hobbies:
 1. Playing and watching Football
 2. Reading books
+
+Name: Sushant Sangle
+College: P.E.S's Modern College of Engineering, Pune-05
+Hobbies:
+1. Reading Books
+2. Playing Volleyball
+3. Drawing
+
