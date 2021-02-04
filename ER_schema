@@ -1,0 +1,13 @@
+Exam Attendees
+ Student name
+ Phone number
+ Email
+
+Exam
+ Exam ID
+ Subject name
+
+Result
+ Result ID
+ Student name
+ Score
